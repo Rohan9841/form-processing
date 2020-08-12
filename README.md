@@ -1,2 +1,2 @@
-# form-processing
-Create forms using angular and process it using Spring boot and JPA with mysql in backend
+# form-process
+Upload and view picture using angular, Spring boot, JPA and Oracle
